@@ -13,12 +13,12 @@ window.SITE_DATA = {
   "metDate": "2018-06-11T08:00",
   "anniversary": "2024-10-07",
   "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time.",
-  "heroImage": "assets/20.JPG",
-  "counterImage": "assets/20.JPG",
-  "messageImage": "assets/20.JPG",
-  "storyImage": "assets/20.JPG",
-  "loveImage": "assets/20.JPG",
-  "songImage": "assets/20.JPG",
+  "heroImage": "assets/26.JPG",
+  "counterImage": "assets/25.JPG",
+  "messageImage": "assets/33.JPG",
+  "storyImage": "assets/41.JPG",
+  "loveImage": "assets/33.JPG",
+  "songImage": "assets/32.JPG",
   "surpriseImage": "assets/20.JPG",
   "audio": "assets/back.mp3",
   "backgroundAudio": "assets/music1.mp3",
@@ -38,24 +38,28 @@ window.SITE_DATA = {
     "assets/9.JPG",
     "assets/21.JPG",
     "assets/16.JPG",
-    "assets/32.JPG",
+    "assets/41.JPG",
     "assets/31.JPG",
-    "assets/20.JPG",
-    "assets/3.JPG"
+    "assets/42.JPG",
+    "assets/45.JPG"
   ],
   "memories": [],
   "reasons": [
     "You make me feel loved and appreciated.",
     "You make me feel safe, even when things aren't easy.",
     "You make me excited about our future together.",
-    "You understand me in ways that I never thought someone could. "
+    "You understand me in ways that I never thought someone could. ",
+    "You give me peace and comfort when I need it most.",
+    "You love me even on the days when I don't feel lovable.",
+    "You remember the little things about me that mean so much.",
+    "You always know how to make me smile and laugh."
   ],
   "events": [
     {
       "date": "2024",
       "title": "The Beginning",
       "description": "Somehow, two people met and started a story neither of us expected.",
-      "image": "assets/22.DNG"
+      "image": "assets/100.jpg"
     },
     {
       "date": "2024",
@@ -67,7 +71,7 @@ window.SITE_DATA = {
       "date": "2024",
       "title": "My first 'yes', before the real one. ",
       "description": "Tell the story of this moment.",
-      "image": "assets/8.jpg"
+      "image": "assets/8.JPG"
     },
     {
       "date": "September 01, 2025",
