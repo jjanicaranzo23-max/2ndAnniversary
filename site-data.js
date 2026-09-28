@@ -13,12 +13,12 @@ window.SITE_DATA = {
   "metDate": "2018-06-11T08:00",
   "anniversary": "2024-10-07",
   "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time.",
-  "heroImage": "assets/26.JPG",
-  "counterImage": "assets/25.JPG",
-  "messageImage": "assets/33.JPG",
+  "heroImage": "assets/20.JPG",
+  "counterImage": "assets/21.JPG",
+  "messageImage": "assets/33.jpg",
   "storyImage": "assets/41.JPG",
-  "loveImage": "assets/33.JPG",
-  "songImage": "assets/32.JPG",
+  "loveImage": "assets/35.JPG",
+  "songImage": "assets/9.JPG",
   "surpriseImage": "assets/20.JPG",
   "audio": "assets/back.mp3",
   "backgroundAudio": "assets/music1.mp3",
@@ -36,7 +36,7 @@ window.SITE_DATA = {
     "assets/4.JPG",
     "assets/7.JPG",
     "assets/9.JPG",
-    "assets/21.JPG",
+    "assets/43.JPG",
     "assets/16.JPG",
     "assets/41.JPG",
     "assets/31.JPG",
@@ -56,21 +56,21 @@ window.SITE_DATA = {
   ],
   "events": [
     {
-      "date": "2024",
+      "date": "October 07, 2024",
       "title": "The Beginning",
       "description": "Somehow, two people met and started a story neither of us expected.",
       "image": "assets/100.jpg"
     },
     {
       "date": "2024",
-      "title": "The first time you 'proposed' to me, even if it was just for fun. Look at us now. ",
-      "description": "Every day with you became another reason to smile.",
+      "title": "",
+      "description": "The first time you 'proposed' to me, even if it was just for fun. Look at us now. ",
       "image": "assets/2.jpg"
     },
     {
       "date": "2024",
-      "title": "My first 'yes', before the real one. ",
-      "description": "Tell the story of this moment.",
+      "title": "",
+      "description": "My first 'yes', before the real one. ",
       "image": "assets/8.JPG"
     },
     {
