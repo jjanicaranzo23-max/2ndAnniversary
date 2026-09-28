@@ -1,5 +1,5 @@
 // Edit this file in GitHub to publish your Valentine website.
-// Keep image/audio files in the assets/ folder and use paths such as "assets/hero.jpg".
+// Keep image/audio files in the  folder and use paths such as "hero.JPG".
 window.SITE_DATA = {
   "heroTitle": "Happy 2nd Anniversary",
   "heroTo": "My Love ♥",
@@ -13,15 +13,15 @@ window.SITE_DATA = {
   "metDate": "2018-06-11T08:00",
   "anniversary": "2024-10-07",
   "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time.",
-  "heroImage": "assets/17.jpg",
-  "counterImage": "assets/36.jpg",
-  "messageImage": "assets/25.jpg",
-  "storyImage": "assets/24.jpg",
-  "loveImage": "assets/14.jpg",
-  "songImage": "assets/9.jpg",
-  "surpriseImage": "assets/20.jpg",
-  "audio": "assets/back.mp3",
-  "backgroundAudio": "assets/music1.mp3",
+  "heroImage": "17.heic",
+  "counterImage": "36.JPG",
+  "messageImage": "25.JPG",
+  "storyImage": "24.JPG",
+  "loveImage": "14.JPG",
+  "songImage": "9.JPG",
+  "surpriseImage": "20.JPG",
+  "audio": "back.mp3",
+  "backgroundAudio": "music1.mp3",
   "backgroundMusicEnabled": true,
   "backgroundMusicVolume": 0.5,
   "settings": {
@@ -33,15 +33,15 @@ window.SITE_DATA = {
     "mood": "petals"
   },
   "memoryImages": [
-    "assets/4.jpg",
-    "assets/18.jpg",
-    "assets/9.jpg",
-    "assets/11.jpg",
-    "assets/13.jpg",
-    "assets/5.jpg",
-    "assets/21.jpg",
-    "assets/1.jpg",
-    "assets/3.jpg"
+    "4.JPG",
+    "18.JPG",
+    "9.JPG",
+    "11.JPG",
+    "13.JPG",
+    "5.JPG",
+    "21.JPG",
+    "1.JPG",
+    "3.JPG"
   ],
   "memories": [],
   "reasons": [
@@ -55,25 +55,25 @@ window.SITE_DATA = {
       "date": "2024",
       "title": "The Beginning",
       "description": "Somehow, two people met and started a story neither of us expected.",
-      "image": "assets/22.DNG"
+      "image": "22.DNG"
     },
     {
       "date": "2024",
       "title": "The first time you 'proposed' to me, even if it was just for fun. Look at us now. ",
       "description": "Every day with you became another reason to smile.",
-      "image": "assets/2.jpg"
+      "image": "2.JPG"
     },
     {
       "date": "2024",
       "title": "My first 'yes', before the real one. ",
       "description": "Tell the story of this moment.",
-      "image": "assets/8.jpg"
+      "image": "8.JPG"
     },
     {
       "date": "September 01, 2025",
       "title": "A New Chapter",
       "description": "Out of all the beautiful moments we've shared, this one will always hold a special place in my heart. The moment you turned our someday into a promise, and I got to say yes to the life we've been dreaming of. ",
-      "image": "assets/33.jpg"
+      "image": "33.JPG"
     }
   ]
 };
