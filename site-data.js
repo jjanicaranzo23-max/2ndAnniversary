@@ -13,13 +13,13 @@ window.SITE_DATA = {
   "metDate": "2018-06-11T08:00",
   "anniversary": "2024-10-07",
   "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time. Happy 2nd Anniversary, Love!♥",
-  "heroImage": "assets/20.JPG",
+  "heroImage": "assets/120.jpg",
   "counterImage": "assets/21.JPG",
   "messageImage": "assets/33.jpg",
   "storyImage": "assets/41.JPG",
   "loveImage": "assets/35.JPG",
   "songImage": "assets/9.JPG",
-  "surpriseImage": "assets/20.JPG",
+  "surpriseImage": "assets/36.JPG",
   "audio": "assets/back.mp3",
   "backgroundAudio": "assets/mp31.mp3",
   "backgroundMusicEnabled": true,
@@ -48,7 +48,7 @@ window.SITE_DATA = {
       "date": "December 04-08, 2024",
       "title": "Our first little getaway as a couple",
       "caption": "From our first trip as boyfriend and girlfriend to planning a lifetime of adventures together.",
-      "image": "assets/11.JPG"
+      "image": "assets/120.JPG"
     },
     {
       "date": "August 05 - 08, 2025",
