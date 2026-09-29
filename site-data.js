@@ -21,7 +21,7 @@ window.SITE_DATA = {
   "songImage": "assets/9.JPG",
   "surpriseImage": "assets/20.JPG",
   "audio": "assets/back.mp3",
-  "backgroundAudio": "assets/music1.mp3",
+  "backgroundAudio": "assets/mp31.mp3",
   "backgroundMusicEnabled": true,
   "backgroundMusicVolume": 0.5,
   "settings": {
@@ -45,21 +45,33 @@ window.SITE_DATA = {
   ],
   "memories": [
     {
+      "date": "December 04-08, 2024",
+      "title": "Our first little getaway as a couple",
+      "caption": "From our first trip as boyfriend and girlfriend to planning a lifetime of adventures together.",
+      "image": "assets/11.JPG"
+    },
+    {
+      "date": "August 05 - 08, 2025",
+      "title": "Made it to Thailand with my favorite human",
+      "caption": "If there's one thing this trip reminded me of, it's that I don't need to be anywhere extraordinary to be happy. Being with you is already enough",
+      "image": "assets/15.JPG"
+    },
+    {
       "date": "September 07, 2025",
       "title": "Monthsary",
-      "caption": "Celebrating our 11th Monthsary as your Fiancee",
+      "caption": "Celebrating another monthsary as an engaged couple. ",
       "image": "assets/200.jpg"
     }
   ],
   "reasons": [
-    "You make me feel loved and appreciated.",
-    "You make me feel safe, even when things aren't easy.",
-    "You make me excited about our future together.",
-    "You understand me in ways that I never thought someone could. ",
-    "You give me peace and comfort when I need it most.",
-    "You love me even on the days when I don't feel lovable.",
-    "You remember the little things about me that mean so much.",
-    "You always know how to make me smile and laugh."
+    "You make me feel loved and appreciated",
+    "You make me feel safe, even when things aren't easy",
+    "You make me excited about our future together",
+    "You understand me in ways that I never thought someone could",
+    "You give me peace and comfort when I need it most",
+    "You love me even on the days when I don't feel lovable",
+    "You remember the little things about me that mean so much",
+    "You always know how to make me smile and laugh"
   ],
   "events": [
     {
