@@ -48,7 +48,7 @@ window.SITE_DATA = {
       "date": "December 04-08, 2024",
       "title": "Our first little getaway as a couple",
       "caption": "From our first trip as boyfriend and girlfriend to planning a lifetime of adventures together.",
-      "image": "assets/120.JPG"
+      "image": "assets/250.jpg"
     },
     {
       "date": "August 05 - 08, 2025",
