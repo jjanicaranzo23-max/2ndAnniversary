@@ -12,7 +12,7 @@ window.SITE_DATA = {
   "songLink": "https://youtu.be/AA75gCdr2TM?si=8Ozq93CWgkvAzYyo",
   "metDate": "2018-06-11T08:00",
   "anniversary": "2024-10-07",
-  "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time. Happy 2nd Anniversary, Love! i LOVE YOU ♥",
+  "finalMessage": "If I could choose one person to make memories with over and over again, I would choose you every single time. Happy 2nd Anniversary, Love! I LOVE YOU ♥",
   "heroImage": "assets/120.jpg",
   "counterImage": "assets/21.JPG",
   "messageImage": "assets/33.jpg",
